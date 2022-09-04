@@ -1,0 +1,14 @@
+{
+  "app_title": "Titre",
+  "language": "Langue",
+  "welcome_message": "Bienvenue",
+  "days_since_release": "ça fait {{number_of_days}} jours depuis la sortie de cette un événement",
+  "First_Image_In_Our_WebSite":"Première image sur notre site Web",
+  "loream_text":"est simplement un faux texte de l'industrie de l'impression et de la composition. Le Lorem Ipsum est le texte factice standard de l'industrie depuis les années 1500, lorsqu'un imprimeur inconnu a pris une galère de caractères et l'a brouillé pour en faire un livre de spécimens de caractères. Il a survécu non seulement à cinq siècles, mais aussi au saut dans la composition électronique, restant essentiellement inchangé. Il a été popularisé dans les années 1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker incluant des versions de Lorem Ips"
+  ,"btn_text":"Télécharger le rapport",
+  "card_title":"Titre de la carte",
+  "card_text":"s simplement texte factice de l' inchangé.1960 avec la sortie de feuilles Letraset contenant des passages de Lorem Ipsum, et plus récemment avec des logiciels de publication assistée par ordinateur comme Aldus PageMaker comprenant"
+,"btn_text_btn":"cliquez pour télécharger",
+"designer":"© 2022 Droits d'auteur par Ahmed Ali"
+  
+}
